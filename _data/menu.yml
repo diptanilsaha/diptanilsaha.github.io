@@ -7,7 +7,7 @@ entries:
         url: mailto:diptanil.dev@gmail.com
       # - title: microblog
       #   url: microblog
-      - title: "social: <a href='/feed.xml'>rss</a> <a href='https://twitter.com/DiptanilSaha'>twitter</a> <a href='https://mas.to/@diptanilsaha'>mastodon</a> <a href='https://instagram.com/diptanil.saha'>instagram</a>"
+      - title: "social: <a href='https://twitter.com/DiptanilSaha'>twitter</a> <a href='https://mas.to/@diptanilsaha'>mastodon</a> <a href='https://instagram.com/diptanil.saha'>instagram</a> <a href='/feed.xml'>rss-feed</a>"
 
   # - title: posts
   #   post_list:
