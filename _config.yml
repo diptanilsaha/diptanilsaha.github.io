@@ -9,7 +9,7 @@ twitter_username: DiptanilSaha
 permalink: /:slug.html
 
 favicon: "favicon.png"
-# goat_counter: "" # put your GoatCounter name if you want to use GoatCounter analytics
+goat_counter: "diptanil" # put your GoatCounter name if you want to use GoatCounter analytics
 
 # Build settings
 remote_theme: riggraz/no-style-please
