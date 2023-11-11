@@ -5,8 +5,6 @@ entries:
         url: https://github.com/diptanilsaha
       - title: email
         url: mailto:diptanil.dev@gmail.com
-      - title: rss-feed
-         url: /feed.xml
       - title: "social: <a href='https://twitter.com/DiptanilSaha'>twitter</a> <a href='https://mas.to/@diptanilsaha'>mastodon</a>"
 
   # - title: posts
