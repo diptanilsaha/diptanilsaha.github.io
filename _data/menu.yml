@@ -1,9 +1,11 @@
 entries:
   - title: me
     entries:
+      - title: cv
+        url: /resume.pdf
       - title: github
         url: https://github.com/diptanilsaha
-      - title: "social: <a href='https://twitter.com/DiptanilSaha'>twitter</a> <a href='https://mas.to/@diptanilsaha'>mastodon</a> <a href='https://bsky.app/profile/diptanil.bsky.social'>bsky</a>"
+      - title: "social: <a href='https://twitter.com/diptanil_'>twitter</a> <a href='https://mas.to/@diptanilsaha'>mastodon</a> <a href='https://bsky.app/profile/diptanil.bsky.social'>bsky</a>"
 
   # - title: posts
   #   post_list:
