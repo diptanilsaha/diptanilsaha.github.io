@@ -4,7 +4,7 @@ entries:
       - title: "engineer at <a href='https://frappe.io'>frappe</a>"
       - title: github
         url: https://github.com/diptanilsaha
-      - title: "social: <a href='https://twitter.com/diptanilsaha'>twitter</a> <a href='https://mas.to/@diptanilsaha'>mastodon</a> <a href='https://bsky.app/profile/diptanil.bsky.social'>bsky</a>"
+      - title: "social: <a href='https://twitter.com/diptanilsaha'>twitter</a> <a rel='me' href='https://mas.to/@diptanilsaha'>mastodon</a> <a href='https://bsky.app/profile/diptanil.bsky.social'>bsky</a>"
 
   # - title: posts
   #   post_list:
